@@ -115,3 +115,6 @@ def play_game():
             break
         i += 1
     return
+
+
+#Comment that was added after gitbash, for Task 2.1. The code for functions_ttt is completed :)
