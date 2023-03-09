@@ -192,7 +192,7 @@ def check_win(board):
             game_won = False
             winner = None
 
-    return winner, game_won
+    return game_won, winner
 
 
 # Function 6:
